@@ -1,4 +1,4 @@
-# 1: A random chat attibution system
+# 1: A Random Chat Attibution System
 hidden
 # 2: Calculate the AHT
 <img src="images/calculate_aht.png" />
